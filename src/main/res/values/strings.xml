@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string name="time_zone1">Sydney</string>
+    <string name="time_zone2">New York</string>
+    <string name="time_zone3">Tokyo</string>
+    <string name="time_zone4">Taipei</string>
+    <string name="time_zone5">Vancouver</string>
+    <string name="button1">12H</string>
+    <string name="button2">24H</string>
+</resources>
